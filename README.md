@@ -1,1 +1,3 @@
-# contactForm.doc
+# maven-project
+
+Simple Maven Project
